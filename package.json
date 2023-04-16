@@ -1,0 +1,34 @@
+{
+	"name": "documentation.coffee",
+	"version": "0.0.1",
+	"description": "A documentation framework uses markdown to generate user-friendly documentation websites. It streamlines the creation and organization of content for consistency and clarity.",
+	"license": "MIT",
+	"author": {
+		"name": "JP.Coffee",
+		"url": "https://jp.coffee"
+	},
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/jp-coffee/Scaffolding.Coffee"
+	},
+	"bugs": {
+		"url": "https://github.com/jp-coffee/Scaffolding.Coffee/issues"
+	},
+	"homepage": "https://github.com/jp-coffee/Scaffolding.Coffee#readme",
+	"keywords": [
+		"documentation",
+		"markdown",
+		"website",
+		"generator",
+		"framework",
+		"organization",
+		"formatting",
+		"consistency",
+		"usability",
+		"development"
+	],
+	"scripts": {
+		"lint": "echo \"Error: no lint specified\" && exit 0",
+		"test": "echo \"Error: no test specified\" && exit 0"
+	}
+}
